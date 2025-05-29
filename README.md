@@ -14,7 +14,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/elvis-nkululeko-letsales-projects/v0-bookwise-library-app](https://vercel.com/elvis-nkululeko-letsales-projects/v0-bookwise-library-app)**
+**[https://bookwise-library-omega.vercel.app/](https://bookwise-library-omega.vercel.app/)**
 
 ## Build your app
 
